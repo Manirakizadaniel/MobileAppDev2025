@@ -7,7 +7,7 @@
   var name = 'Daniel';
   var age = 23;
   var piValue = 3.14;
-
+     
   // Using 'is' operator
   print(name is String);   // true
   print(age is int);       // true
