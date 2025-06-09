@@ -16,7 +16,7 @@ void main() {
 }
 
 // 2. Switch Statement example
-void main() {
+void main () {
   String day = 'Monday';
 
   switch (day) {
